@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18162f"/><stop offset="1" stop-color="#0d1020"/></linearGradient>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="white" stroke-opacity=".045"/></pattern></defs>
+<rect x="4" y="4" width="752" height="422" rx="22" fill="url(#bg)" stroke="#f1b65b" stroke-width="7"/>
+<rect x="4" y="4" width="752" height="422" rx="22" fill="url(#grid)"/>
+<text x="34" y="53" fill="#f4f5fb" font-family="Arial" font-size="25" font-weight="700">✦  ACHIEVEMENTS</text>
+<text x="34" y="82" fill="#f1b65b" font-family="Arial" font-size="14" font-weight="600">HACKATHONS • BUILDING • LEARNING</text>
+<rect x="38" y="115" width="684" height="62" rx="12" fill="white" opacity=".05"/><rect x="38" y="190" width="684" height="62" rx="12" fill="white" opacity=".05"/><rect x="38" y="265" width="684" height="62" rx="12" fill="white" opacity=".05"/>
+<text x="60" y="143" fill="#f1b65b" font-family="Arial" font-size="14" font-weight="700">01</text><text x="105" y="143" fill="white" font-family="Arial" font-size="17" font-weight="700">Microsoft Imagine Cup</text><text x="105" y="165" fill="#b7bbcc" font-family="Arial" font-size="13">DeepTrust • AI / digital experiences</text>
+<text x="60" y="218" fill="#f1b65b" font-family="Arial" font-size="14" font-weight="700">02</text><text x="105" y="218" fill="white" font-family="Arial" font-size="17" font-weight="700">India Innovates Hackathon</text><text x="105" y="240" fill="#b7bbcc" font-family="Arial" font-size="13">National innovation competition</text>
+<text x="60" y="293" fill="#f1b65b" font-family="Arial" font-size="14" font-weight="700">03</text><text x="105" y="293" fill="white" font-family="Arial" font-size="17" font-weight="700">ET Generative AI Hackathon</text><text x="105" y="315" fill="#b7bbcc" font-family="Arial" font-size="13">Selected for the next round</text>
+<text x="34" y="397" fill="#858aa1" font-family="Arial" font-size="12">Projects • competitions • continuous learning</text>
+</svg>
