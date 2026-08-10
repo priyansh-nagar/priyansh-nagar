@@ -47,6 +47,6 @@
 
 <div align="center">
 
-### BUILD → EXPERIMENT → LEARN → REPEAT 🚀
+
 
 </div>
